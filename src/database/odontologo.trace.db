@@ -1,0 +1,3 @@
+2024-08-08 21:51:08.103896-06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "Ana"
+Data conversion error converting "Ana" [22018-230]
